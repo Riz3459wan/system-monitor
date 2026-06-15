@@ -1,0 +1,25 @@
+# ========================
+# Go (Backend)
+# ========================
+/task-manager/system-monitor
+/task-manager/*.exe
+/task-manager/*.out
+
+# ========================
+# React / Vite (Frontend)
+# ========================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# ========================
+# OS & Editor
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
