@@ -4,6 +4,19 @@ A real-time system monitoring tool with a Go backend and a React frontend. The b
 
 ---
 
+## Screenshots
+
+**Dashboard — Live Metrics & System Info**
+![Dashboard](assets/dashboard.png)
+
+**System Metrics Trend Chart (CPU, Memory, Disk)**
+![System Metrics Trend](assets/charts.png)
+
+**CPU History Chart (1 Minute / 1 Hour / 1 Day)**
+![CPU History](assets/cpu-history.png)
+
+---
+
 ## Features
 
 - **Live metrics** — CPU usage, memory usage, and disk usage updated every second
